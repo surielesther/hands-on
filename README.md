@@ -22,7 +22,7 @@ Controle o cursor do computador usando gestos das mãos através da webcam.
 ## 🚀 Execução
 
 ```bash
-git clone https://github.com/seu-usuario/hands-on.git
+git clone https://github.com/surielesther/hands-on.git
 cd hands-on
 pip install -r requirements.txt
 python main.py
